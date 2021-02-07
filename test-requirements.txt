@@ -1,0 +1,1 @@
+odoo14-addon-product_packaging_type @ git+https://github.com/trobz/product-attribute.git@14.0-mig-product_packaging_type#subdirectory=setup/product_packaging_type
